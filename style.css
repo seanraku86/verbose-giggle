@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 60px;
+}
+
+#logo {
+    border-radius: 50%;
+    max-width: 130px;
+    max-height: auto;
+}
+
+#title {
+    margin: auto;
+}
+
+.cart, #cart-icon {
+    font-size: 2rem;
+    cursor: pointer;
+    color: white;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 1px solid #ccc;
+}
+
+td {
+    padding: 10px;
+}
+
+#car-image {
+    /* width: 500px; */
+    height: 400px;
+    object-fit: cover;
+}
+
+#car-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#car-price {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.add-to-cart {
+    margin: 0.5rem auto 0 auto;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.add-to-cart:hover {
+    background-color: #444;
+    text-decoration: none;
+}
+
+.required:after {
+    content:" *";
+    color: red;
+}
+

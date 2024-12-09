@@ -1,0 +1,153 @@
+{"cars": [ 
+            {
+                "id": "001",
+                "category": "Sedan",
+                "availability": "True",
+                "brand": "Honda",
+                "model": "City",
+                "modelYear": 2018,
+                "milage": 15000,
+                "fuelType": "Petrol",
+                "seats": 5,
+                "pricePerDay": 2000,
+                "description": "This is a Honda City 2018 model. It is a sedan car with 5 seats. It is a petrol car with 20 kmpl mileage. It is available for rent at 2000 AUD per day.",
+                "image": "./img/honda-city.webp"
+            },
+
+            {
+                "id": "002",
+                "category": "Sedan",
+                "availability": "True",
+                "brand": "Toyota",
+                "model": "Camry",
+                "modelYear": 2013,
+                "milage": 10000,
+                "fuelType": "Petrol",
+                "seats": 5,
+                "pricePerDay": 1500,
+                "description": "This is a Toyota Camry 2013 model. It is a sedan car with 5 seats. It is a petrol car with 10000 kmpl mileage. It is available for rent at 1500 AUD per day.",
+                "image": "./img/toyota-camry.webp"
+            },
+
+            {
+                "id": "003",
+                "category": "Sedan",
+                "availability": "True",
+                "brand": "Suzuki",
+                "model": "Swift Dzire",
+                "modelYear": 2015,
+                "milage": 20000,
+                "fuelType": "Petrol",
+                "seats": 5,
+                "pricePerDay": 1800,
+                "description": "This is a Suzuki Swift Dzire 2015 model. It is a sedan car with 5 seats. It is a petrol car with 20000 kmpl mileage. It is available for rent at 1800 AUD per day.",
+                "image": "./img/suzuki-dzire.png"
+            },
+
+            {
+                "id": "004",
+                "category": "Limousine",
+                "availability": "True",
+                "brand": "Audi",
+                "model": "A8 L",
+                "modelYear": 2018,
+                "milage": 10000,
+                "fuelType": "Petrol",
+                "seats": 5,
+                "pricePerDay": "AU$5000",
+                "description": "This is a Audi A8 L 2018 model. It is a Limousine car with 5 seats. It is a petrol car with 10000 kmpl mileage. It is available for rent at 5000 AUD per day.",
+                "image": "./img/audi-a8.jpeg"
+            },
+
+            {
+                "id": "005",
+                "category": "Limousine",
+                "availability": "True",
+                "brand": "BMW",
+                "model": "7 Series",
+                "modelYear": 2018,
+                "milage": 10000,
+                "fuelType": "Petrol",
+                "seats": 5,
+                "pricePerDay": 5000,
+                "description": "This is a BMW 7 Series 2018 model. It is a Limousine car with 5 seats. It is a petrol car with 10000 kmpl mileage. It is available for rent at 5000 AUD per day.",
+                "image": "./img/bmw-7.png"
+            },
+
+            {
+                "id": "006",
+                "category": "Convertible",
+                "availability": "True",
+                "brand": "Audi",
+                "model": "A3 Cabriolet",
+                "modelYear": 2019,
+                "milage": 11000,
+                "fuelType": "Petrol",
+                "seats": 4,
+                "pricePerDay": 3000,
+                "description": "This is a Audi A3 Cabriolet 2019 model. It is a Convertible car with 4 seats. It is a petrol car with 11000 kmpl mileage. It is available for rent at 3000 AUD per day.",
+                "image": "./img/audi-a3.png"
+            },
+
+            {
+                "id": "007",
+                "category": "Convertible",
+                "availability": "True",
+                "brand": "BMW",
+                "model": "6 Series",
+                "modelYear": 2017,
+                "milage": 13000,
+                "fuelType": "Petrol",
+                "seats": 4,
+                "pricePerDay": 3000,
+                "description": "This is a BMW 6 Series 2017 model. It is a Convertible car with 4 seats. It is a petrol car with 13000 kmpl mileage. It is available for rent at 3000 AUD per day.",
+                "image": "./img/bmw-6.jpeg"
+            },
+
+            {
+                "id": "008",
+                "category": "Sports Car",
+                "availability": "True",
+                "brand": "Ferrari",
+                "model": "488 GTB",
+                "modelYear": 2016,
+                "milage": 15000,
+                "fuelType": "Petrol",
+                "seats": 2,
+                "pricePerDay": 10000,
+                "description": "This is a Ferrari 488 GTB 2016 model. It is a Sports car with 2 seats. It is a petrol car with 15000 kmpl mileage. It is available for rent at 10000 AUD per day.",
+                "image": "./img/ferrari-gtb.webp"
+            },
+
+            {
+                "id": "009",
+                "category": "SUV",
+                "availability": "True",
+                "brand": "Toyota",
+                "model": "Fortuner",
+                "modelYear": 2021,
+                "milage": 20000,
+                "fuelType": "Diesel",
+                "seats": 7,
+                "pricePerDay": 2500,
+                "description": "This is a Toyota Fortuner 2017 model. It is a SUV car with 7 seats. It is a diesel car with 20000 kmpl mileage. It is available for rent at 2500 AUD per day.",
+                "image": "./img/toyota-fortuner.png"
+            },
+
+            {
+                "id": "010",   
+                "category": "SUV",
+                "availability": "False",
+                "brand": "Ford",
+                "model": "Endeavour",
+                "modelYear": 2019,
+                "milage": 16000,
+                "fuelType": "Diesel",
+                "seats": 7,
+                "pricePerDay": 2800,
+                "description": " This is a Ford Endeavour 2019 model. It is a SUV car with 7 seats. It is a diesel car with 16000 kmpl mileage. It is available for rent at 2800 AUD per day.",
+                "image": "./img/ford-endeavour.png"
+            }
+
+    ]
+}
